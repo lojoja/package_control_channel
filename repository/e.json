@@ -489,6 +489,16 @@
 			]
 		},
 		{
+			"name": "ElixirFormatter",
+			"details": "https://github.com/karolsluszniak/elixir-formatter-sublime",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ElixirPlayground",
 			"details": "https://github.com/gmcabrita/SublimeElixirPlayground",
 			"releases": [
@@ -515,6 +525,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ElixirTest",
+			"details": "https://github.com/tarzan/sublime-text-elixir-tests",
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
